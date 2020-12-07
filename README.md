@@ -1,7 +1,7 @@
 # tutorials
 Data Science Tutorials For the Research Scientist Blog. 
 
-# For Pandas
+## For Pandas
 
 Netflix Dataset: [Link](https://www.kaggle.com/shivamb/netflix-shows)
 
