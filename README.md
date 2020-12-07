@@ -1,5 +1,5 @@
 # The Research Scientist Pod Tutorials
-Data Science Tutorials For the Research Scientist Blog. 
+Data Science Tutorials For the Research Scientist Pod Blog and Website. 
 
 ## For Pandas
 
